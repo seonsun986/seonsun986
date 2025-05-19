@@ -31,7 +31,10 @@
 
 <p>
   <a href="https://play.google.com/store/apps/details?id=kr.peppercon.paradise.google&hl=ko-KR&utm_source=apac_med">
-    <img src="https://img.shields.io/badge/📲 Google Play-다운로드-blue?style=for-the-badge&logo=google-play" alt="스타일테일 다운로드">
+    <img src="https://img.shields.io/badge/📲 Google Play-다운로드-blue?style=for-the-badge&logo=google-play" alt="구글 플레이 다운로드">
+  </a>
+  <a href="https://apps.apple.com/kr/app/%EC%8A%A4%ED%83%80%EC%9D%BC%ED%85%8C%EC%9D%BC/id6738163335?platform=iphone">
+    <img src="https://img.shields.io/badge/🍎 App Store-바로가기-black?style=for-the-badge&logo=apple" alt="앱스토어 다운로드">
   </a>
 </p>
 
