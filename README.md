@@ -2,6 +2,8 @@
 
 <p align="center">
   <em>"단기 구현보다 장기 유지보수와 구조를 먼저 고민하는 유니티 클라이언트 개발자"</em><br>
+
+  
   <a href="mailto:ap05229@gmail.com"><img src="https://img.shields.io/badge/email-ap05229@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/seonsun986"><img src="https://img.shields.io/badge/github-seonsun986-181717?style=flat-square&logo=github"/></a>
 </p>
@@ -23,7 +25,7 @@
 
 ## 🧩 Featured Projects
 
-### 🎮 스타일테일: 신들의 디자이너 _(2023.05 ~ 2025.04)_
+### 🎮 스타일테일: 신들의 디자이너 _(2023.05 ~ 2025.05)_
 > 여성향 드레스업 모바일 게임 (Unity 2D 기반)
 
 **📌 Highlights**
