@@ -1,9 +1,9 @@
-# ✨ 심선혜 | Unity Client Developer
+# ✨ Sim Seonhye | Unity Client Developer
 
 > 더 나은 구조와 협업을 고민하는 Unity 클라이언트 개발자입니다.  
 > 기능 구현을 넘어, 유지보수성과 확장성을 고려한 설계를 통해 팀에 기여하는 개발자를 지향합니다.
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-ap05229@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ap05229@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-ap05229@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rmfody98@naver.com)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-seonsun986-181717?style=flat&logo=github)](https://github.com/seonsun986)
 
 ---
