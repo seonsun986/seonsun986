@@ -15,6 +15,7 @@
 | 분류 | 기술 |
 |------|------|
 | Language | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) |
+| Learning / Studying | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
 | Game Engine | ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white) |
 | Animation | Spine, Unity Animation System |
 | Tooling | Git, Visual Studio, Notion, Jira, Slack |
