@@ -28,7 +28,13 @@
 
 ### 🎮 스타일테일: 신들의 디자이너 _(2023.05 ~ 2025.05)_
 > 여성향 드레스업 모바일 게임 (Unity 2D 기반, 전세계 글로벌 출시)
-> [![스타일테일 다운로드](https://img.shields.io/badge/📲%20게임%20다운로드-Play%20Now-blue?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.peppercon.StyleTail)
+
+<p>
+  <a href="https://play.google.com/store/apps/details?id=kr.peppercon.paradise.google&hl=ko-KR&utm_source=apac_med">
+    <img src="https://img.shields.io/badge/📲 Google Play-다운로드-blue?style=for-the-badge&logo=google-play" alt="스타일테일 다운로드">
+  </a>
+</p>
+
 
 **📌 Highlights**
 - 유연한 인앱결제 시스템 구축 (Unity IAP + UI 연동)
